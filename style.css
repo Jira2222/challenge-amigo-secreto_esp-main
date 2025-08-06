@@ -161,7 +161,7 @@ ul {
     background-color: var(--color-button-hover);
 }
 
-/*Estilo para borrar el listado de amigos cuando se haga el sorteo*/
+/*Estilo para borrar el listado de amigos cuando se haga el sorteo.*/
 
 .name-list{
     display: none;
