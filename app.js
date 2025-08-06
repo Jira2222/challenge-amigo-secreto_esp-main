@@ -41,7 +41,7 @@ function agregarAmigo(){
     lista.innerHTML = "";   
 };
 
-/* Funcion boton "Sortear amigo" (Muestra el nombre aleatorio, dependiendo los nombres de la lista)*/
+/* Funcion boton "Sortear amigo" (Muestra el nombre aleatorio, dependiendo los nombres de la lista.)*/
 function sortearAmigo(){
     if(Array.isArray(amigos) && amigos.length === 0){
         alert("Por favor escriba una lista de amigos...");
